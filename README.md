@@ -7,7 +7,6 @@ Play a variety of audio clips with a simple click—perfect for pranks, memes, o
 
 ## 🎥 Demo
 
-*(Be sure to include a `demo.gif` to showcase your soundboard in action!)*
 
 <p align="center">
   <img src="demo.gif" alt="Demo of SoundBoard" width="500"/>
